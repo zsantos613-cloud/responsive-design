@@ -1,2 +1,16 @@
 /* styles.css */
+:root {
+ /* CSS HEX */
+--pitch-black: #14110fff;
+--graphite: #34312dff;
+--grey: #7e7f83ff;
+--pale-oak: #d9c5b2ff;
+--platinum: #f3f3f4ff; 
+}
 
+htm {
+background-color: var(--pale-oak);
+}
+h1 {
+  color: var(--pitch-black);
+}
